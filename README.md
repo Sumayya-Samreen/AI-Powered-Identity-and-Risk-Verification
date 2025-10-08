@@ -1,5 +1,4 @@
-
-# AI Face Recognition Attendance System
+# AI-Powered Identity and Risk Verification
 
 ## Overview
 This project is an AI-powered face recognition system built in Python using OpenCV and the `face_recognition` library.
@@ -11,12 +10,12 @@ It contains two main functionalities:
 This project can be useful for secure identity verification, automated attendance tracking, and face-based access control systems.
 
 ## Features
-- ✅ Real-Time Face Recognition using webcam feed.
-- ✅ Image-to-Image Face Matching for identity verification.
-- ✅ Multiple Faces Handling for attendance.
-- ✅ Relative File Paths for portability.
-- ✅ Encoding Known Faces once for efficiency.
-- ⚡ Lightweight & Fast using optimized face recognition methods.
+- Real-Time Face Recognition using webcam feed.
+- Image-to-Image Face Matching for identity verification.
+- Multiple Faces Handling for attendance.
+- Relative File Paths for portability.
+- Encoding Known Faces once for efficiency.
+- Lightweight & Fast using optimized face recognition methods.
 
 ## Installation
 
@@ -86,21 +85,22 @@ project-folder/
 ```
 
 ## Suggested Future Improvements
-- 📄 Attendance Logs – Save attendance records to a CSV file.
-- 📸 Snapshot Capture – Automatically capture images for unknown faces.
-- 🔐 Security Features – Add authentication and encryption.
-- 🎯 Performance Optimization – Use GPU acceleration.
-- 🌐 Web Interface – Create a dashboard.
-- 📱 Mobile Integration.
+- Attendance Logs – Save attendance records to a CSV file.
+- Snapshot Capture – Automatically capture images for unknown faces.
+- Security Features – Add authentication and encryption.
+- Performance Optimization – Use GPU acceleration.
+- Web Interface – Create a dashboard.
+- Mobile Integration.
 
 ## Troubleshooting
-- **Camera Not Working:** Try changing camera index in `cv2.VideoCapture()`.
-- **Missing Modules:** Run `pip install -r requirements.txt`.
-- **Face Recognition Errors:** Ensure clear, frontal face images.
+- Camera Not Working: Try changing camera index in `cv2.VideoCapture()`.
+- Missing Modules: Run `pip install -r requirements.txt`.
+- Face Recognition Errors: Ensure clear, frontal face images.
 
 ## Pro Tip for Recruiters / Collaborators
-This project showcases a practical AI pipeline involving face detection, real-time recognition, and identity verification, making it a strong example of computer vision applications for attendance tracking and security systems.
+This project demonstrates a complete AI workflow for face detection, real-time recognition, and identity verification, serving as a robust example of computer vision applications in attendance tracking and security systems.
 
 ## Author
 **Sumayya — M.Sc. in Artificial Intelligence**
 Focused on developing practical AI solutions for real-world computer vision applications, particularly in identity verification and automated systems.
+
