@@ -26,7 +26,7 @@ This project can be useful for secure identity verification, automated attendanc
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
+git clone https://github.com/Sumayya-Samreen/AI-Powered-Identity-and-Risk-Verification.git
 cd <your-repo>
 ```
 
@@ -101,6 +101,6 @@ project-folder/
 This project demonstrates a complete AI workflow for face detection, real-time recognition, and identity verification, serving as a robust example of computer vision applications in attendance tracking and security systems.
 
 ## Author
-**Sumayya — M.Sc. in Artificial Intelligence**
+**Sumayya Samreen — M.Sc. in Artificial Intelligence**
 Focused on developing practical AI solutions for real-world computer vision applications, particularly in identity verification and automated systems.
 
